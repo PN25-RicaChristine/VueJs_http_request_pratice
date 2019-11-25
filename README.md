@@ -1,4 +1,4 @@
-# vuejs-back-co
+# Vuejs_http_request_pratice
 This exercice it's a pratice about http request using axios.
 
 ## Project setup
