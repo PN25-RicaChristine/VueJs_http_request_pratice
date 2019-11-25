@@ -1,4 +1,5 @@
 # vuejs-back-co
+This exercice it's a pratice about http request using axios.
 
 ## Project setup
 ```
@@ -10,15 +11,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Start the exercice:
+The first exercice is in the /src/views/ArtistsListPage.vue file
+The second exercice is in the /src/views/MovieListPage.vue file
+The last exercice is in the /src/views/MoviePage.vue file
