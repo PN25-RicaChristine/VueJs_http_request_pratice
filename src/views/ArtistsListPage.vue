@@ -9,11 +9,11 @@
             request has to be done when the page is created. Save the 
             list of artists in the 'artists' variable.
           </li>
-          <li>Complete the function add movie. When the request has been received,
-            the new movie should appear. Click on the add button for test your code.
+          <li>Complete the function add artist. When the request has been received,
+            the new artist should appear. Click on the add button for test your code.
           </li>
           <li>
-            Complete the function delete movie by Id. When the request has been received
+            Complete the function delete artist by Id. When the request has been received
             the list should update.
           </li>
           <li>
